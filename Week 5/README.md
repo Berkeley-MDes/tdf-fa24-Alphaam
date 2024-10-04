@@ -29,7 +29,7 @@ My overarching goal was to develop an understanding of how to manage inputs from
 
 1. **Visual Studio Code Issues**:
    - Throughout all projects, I was unable to use the Visual Studio Code desktop app due to an error that consistently ended with "*... in archive is not an object.*" This prevented me from compiling code and flashing it directly from Visual Studio. As a workaround, I switched to using the Particle Web IDE, which allowed me to upload the code but limited my ability to debug and manage the projects as effectively as the desktop app would have. 
-     ![](Week 5/media/Screenshot 2024-10-03 at 5.54.57 PM.png)
+     ![]([Week 5/media/Screenshot 2024-10-03 at 5.54.57 PM.png](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%205/media/Screenshot%202024-10-03%20at%205.54.57%20PM.png))
 
 2. **FSR to RGB LED**:
    - A challenge in this project was adjusting the sensor sensitivity so that the RGB LED responded appropriately to varying pressure levels. It took multiple iterations to fine-tune the ranges for the FSR, ensuring that light pressure caused subtle changes and harder presses yielded more vibrant colors.
