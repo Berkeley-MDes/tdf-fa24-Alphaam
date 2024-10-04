@@ -28,8 +28,9 @@ My overarching goal was to develop an understanding of how to manage inputs from
 ### Challenges:
 
 1. **Visual Studio Code Issues**:
-   - Throughout all projects, I was unable to use the Visual Studio Code desktop app due to an error that consistently ended with "*... in archive is not an object.*" This prevented me from compiling code and flashing it directly from Visual Studio. As a workaround, I switched to using the Particle Web IDE, which allowed me to upload the code but limited my ability to debug and manage the projects as effectively as the desktop app would have. 
-     ![](https://drive.google.com/file/d/1GGVWthh3_KmnlDg-PW1yzNud5bLlGQPf/view?usp=sharing)
+   - Throughout all projects, I was unable to use the Visual Studio Code desktop app due to an error that consistently ended with "*... in archive is not an object.*" This prevented me from compiling code and flashing it directly from Visual Studio. As a workaround, I switched to using the Particle Web IDE, which allowed me to upload the code but limited my ability to debug and manage the projects as effectively as the desktop app would have.
+     
+     ![image](https://drive.google.com/uc?export=view&id=<1GGVWthh3_KmnlDg-PW1yzNud5bLlGQPf>)
 
 2. **FSR to RGB LED**:
    - A challenge in this project was adjusting the sensor sensitivity so that the RGB LED responded appropriately to varying pressure levels. It took multiple iterations to fine-tune the ranges for the FSR, ensuring that light pressure caused subtle changes and harder presses yielded more vibrant colors.
