@@ -61,23 +61,34 @@ My overarching goal was to develop an understanding of how to manage inputs from
 #### Circuit Assembly and Code:
 Each project required precise circuit assembly to ensure smooth communication between the Photon 2, the input devices (FSR, buttons), and the outputs (LEDs). Below are images, videos, and sketches to document the steps taken for each project:
 
-1. **FSR to RGB LED**:  
-   *(Space for image of circuit, Fritzing diagram, and video)*  
+1. **FSR to RGB LED**:
+
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%205/media/IMG_3558.JPG)
+   *Picture of breadboard circuit*
+
+   [Watch the video demo here](https://drive.google.com/file/d/1esJ6MVfHLyxn8up1JWr02MqFqUBY1mrt/view?usp=sharing)
+
    
    - The code reads the FSR input and assigns RGB color values based on pressure. The `setTarget()` function ensures smooth transitions between colors.
    
-2. **Button to LED Pulse Rate**:  
-   *(Space for image of circuit, Fritzing diagram, and video)*  
+3. **Button to LED Pulse Rate**:
+
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%205/media/IMG_3551.JPG)
+   *Picture of breadboard circuit*
+   
+   [](https://drive.google.com/file/d/1HH2_nqxzxiD_B58QlznUG2RUI_aasw2N/view?usp=sharing)
    
    - The button press modifies the LED pulse rate using an interrupt to detect real-time input and adjust the blink rate.
    
-3. **Basic Button Send-on-Change**:  
-   *(Space for image of circuit, Fritzing diagram, and video)*  
+5. **Basic Button Send-on-Change**:
+
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%205/media/IMG_3555.JPG)
+   *Picture of breadboard circuit*   
+
+   [Watch the video demo here](https://drive.google.com/file/d/1_zPOdkCm7pAyoYQCghe22FTWDDSl-t79/view?usp=sharing)
    
    - The button state is sent to the Particle cloud when a change is detected, ensuring minimal data transmission.
 
-#### Error Screenshots:  
-*(Space for screenshots of the Visual Studio Code error with the " ... in archive is not an object" message)*
 
 
 ### Future Directions:
