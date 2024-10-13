@@ -61,7 +61,10 @@ The wiring for this project included:
 - **OLED Display (Monochrome 128x64)**: Connected via I2C using the STEMMA QT connector to the Photon 2.
 - **Potentiometer**: Connected to an analog input pin on the Photon 2 to measure the resistance values and display them on the OLED.
 
-*(Space for pictures of the circuit assembly and wiring)*
+![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%206/media/IMG_3651.JPG)
+
+![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%206/media/IMG_3652.JPG)
+*Pictures of circuit assembly and wiring*
 
 #### Code:
 The code included reading the analog values from the potentiometer, using the `map()` and `constrain()` functions to ensure the values are within a usable range, and displaying the values on the OLED screen. The `Serial.println()` function was also used to output values to the serial monitor for debugging purposes.
