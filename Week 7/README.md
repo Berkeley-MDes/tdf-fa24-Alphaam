@@ -11,11 +11,8 @@ This experience highlighted the nuances involved in interfacing with real-time d
 Looking forward, optimizing the refresh rate for the OLED display will be essential to ensure that it doesn’t disrupt the experience. While rapid updates are ideal, there is a delicate balance to strike, as too-frequent refreshes could lead to performance issues, affecting user experience. Reflecting on how this project might evolve, I can envision applications that expand this concept beyond real-time counters, possibly integrating multiple data sources. As more developers integrate social justice data with interactive displays, I think there’s potential for real-time counters like this to serve as powerful installations in public spaces, provoking thought and conversation on humanitarian issues.
 
 **Images & Video:**
-1. **Screenshot**: Initial OLED display showing basic data render from the API.
-2. **Photo**: Breadboard setup highlighting the OLED display and wiring connected to the Photon 2, annotated with connection points and descriptions.
+1. **Screenshot**: Initial OLED display showing basic data render from the API.- incoming
+2. **Photo**: Breadboard setup highlighting the OLED display and wiring connected to the Photon 2, annotated with connection points and descriptions.-incoming
 
-**Sketches, Drawings, and Diagrams:**
-1. **Hand-drawn Diagram**: Wiring schematic detailing the connection between the Photon 2 and OLED, with additional notes on pin configurations.
-2. **Storyboard**: A simple storyboard illustrating the data flow from the API to the Photon 2, then onto the OLED display, showing each stage of processing and display.
 
 
