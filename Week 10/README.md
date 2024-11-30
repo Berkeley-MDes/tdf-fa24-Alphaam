@@ -31,6 +31,10 @@
     2. Flowchart of the refined input-output structure after reducing temperature for clearer analysis.
 
 **Sketches, Drawings, and Diagrams:**
-- **Flowchart:** Revised flowchart illustrating adjustments in the prompt workflow to improve output clarity.
-- **Storyboard:** Storyboard mockup of the user flow, depicting each step from GitHub report input to feedback generation.
+
+![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%209/media/Screenshot%202024-11-07%20at%2012.58.38%20PM.png)
+![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%209/media/Screenshot%202024-11-07%20at%203.10.54%20PM.png)
+![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%209/media/Screenshot%202024-11-07%20at%203.27.35%20PM.png)
+
+Final outputs and experiments of the developed system
 
