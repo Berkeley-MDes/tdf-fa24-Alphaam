@@ -31,7 +31,13 @@
     2. Diagram showing the flow of information from GitHub report submissions to the feedback interface.
 
 **Sketches, Drawings, and Diagrams:**
-- **Diagram:** A basic workflow diagram outlining the interaction between the GitHub report, RAG framework, and the feedback loop.
-- **Sketch:** Initial sketches of the user interface, showing fields for GitHub report input, feedback display, and suggested improvement sections.
+
+
+![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%209/media/Screenshot%202024-11-06%20at%202.06.57%20PM.png)
+![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%209/media/Screenshot%202024-11-06%20at%202.33.33%20PM.png)
+![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%209/media/Screenshot%202024-11-07%20at%2012.59.24%20PM.png)
+
+Initial experiments exploring the interaction between the GitHub report, RAG framework, and the feedback loop.
+
 
 
