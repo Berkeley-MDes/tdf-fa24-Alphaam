@@ -63,11 +63,7 @@ By the end of the week, I had:
 ---
 
 #### **Sketches, Drawings, and Diagrams**
-
-1. **Initial Concept Sketch**:
-   - A hand-drawn diagram showing the envisioned system, with cultural critique mapped to patterns and colors inspired by Kitenge prints.
-
-2. **Draft Workflow**:
+**Draft Workflow**:
    - Inputs: Reference Kitenge images and cultural critique framework.
    - Process: Generative art development in p5.js.
    - Outputs: Dynamic visualizations showcasing cultural variability.
