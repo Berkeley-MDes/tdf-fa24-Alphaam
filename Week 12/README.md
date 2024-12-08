@@ -46,31 +46,16 @@ By the end of the week, I had:
 
 #### **Images & Video**
 
-1. **Enhanced Teardrop Patterns**:
-   ![Enhanced Teardrop Patterns](https://via.placeholder.com/800x400)  
+ **Enhanced Teardrop Patterns**:
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2012/media/Screenshot%202024-12-05%20at%203.24.10%20PM.png) 
+
+   Reference print and texture
+
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2012/media/Screenshot%202024-12-05%20at%203.51.16%20PM.png)
+
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2012/media/Screenshot%202024-12-05%20at%203.53.38%20PM.png)
+ 
    *(Teardrop shapes with improved blending and randomness, better mimicking Kitenge design.)*
-
-2. **Texture Overlay with Cross-Hatch Lines**:
-   ![Texture Overlay](https://via.placeholder.com/400x400)  
-   *(Close-up of the texture overlay showing noise points and cross-hatch lines.)*
-
-3. **Bleeding Black Lines**:
-   ![Bleeding Black Lines](https://via.placeholder.com/400x400)  
-   *(Example of the refined ink-bleeding effect applied to black outlines.)*
-
----
-
-#### **Sketches, Drawings, and Diagrams**
-
-1. **Updated System Workflow**:
-   - Inputs: Extracted color palettes, cultural enforcement data.
-   - Process:
-     - Shape generation with integrated textures.
-     - Mapping cultural data to visual attributes (e.g., boundary thickness).
-   - Outputs: Refined Kitenge-inspired patterns.
-
-2. **Diagram of Ink Bleeding Logic**:
-   - A flowchart illustrating how perturbations and opacity layers were applied to create the bleeding effect.
 
 ---
 
