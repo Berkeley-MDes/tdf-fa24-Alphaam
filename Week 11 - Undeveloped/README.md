@@ -1,83 +1,92 @@
-### Final Project Progress Report 
+### TDF Final Project Progress Report 1
 
 #### **Reflections**
 
 **Conceptual Development:**
-This week was heavily focused on ideation and concept refinement. I began with a critical examination of how culture, particularly in Tanzanian contexts, is often fluid, subjective, and misused for exclusionary purposes. Drawing on my personal experiences, I explored how socio-political powers shape cultural definitions to serve their narratives, often ignoring historical and communal nuances. A specific focus was placed on understanding the gap between the "culture" individuals perceive and the "culture" enforced by governing bodies.
+This week was dedicated to solidifying the foundation of my project, which aims to critique the fluidity and manipulation of cultural definitions, particularly in Tanzanian contexts. The project draws on my personal experiences and observations of how "culture" is used as a tool for exclusion. I explored how to visualize this critique through a medium inspired by Kitenge prints—a culturally significant Tanzanian fabric with vibrant colors and intricate patterns.
 
-To visualize this critique, I decided to use **Kitenge patterns** as a medium. Kitenge, as a fabric rich in cultural significance, became the perfect foundation for exploring and highlighting these inconsistencies. The patterns' vibrant colors, intricate repetitions, and rich textures provide an ideal backdrop for generative design experimentation.
+Key questions guiding this week:
+1. How can I accurately translate the complexity of Kitenge patterns into generative code?
+2. How do I ensure the generated designs authentically represent the intricacies of Kitenge fabric?
 
-**Research Process:**
-I researched generative design tools and image analysis techniques to translate Kitenge patterns into a dynamic system that combines cultural critique with visual art. The primary tools and methods explored included:
-- **p5.js**: A JavaScript library for generative art, which allows the creation of intricate, dynamic designs.
-- **OpenCV with Python**: Used to analyze images and extract dominant colors and patterns from real Kitenge fabrics.
-- **Google Colab**: Used to run Python scripts in a cloud environment to extract data from large images.
+**Exploration of Tools:**
+I began researching tools and techniques for creating generative art that mimics Kitenge patterns:
+- **p5.js**: Chosen for its simplicity and flexibility in generating geometric designs and dynamic visualizations.
+- **Image analysis tools**: Explored ways to analyze Kitenge prints for dominant colors and patterns, using OpenCV and online color palette extraction tools like Colormind.
 
-To ground my concept further, I analyzed **patterns in cultural enforcement**, specifically how governments use legal frameworks to enforce specific definitions of culture. I also examined how cultural exclusion manifests visually and symbolically, which shaped the visual direction of my project.
-
-**Technical Trials:**
-Initial experiments involved:
-1. Testing OpenCV in Google Colab to extract dominant colors from Kitenge images.
-   - Early attempts faced challenges with memory limitations when processing high-resolution images.
-   - Adjustments included resizing images and sampling smaller pixel sets to optimize the clustering process.
-2. Experimenting with **p5.js** for creating simple geometric shapes inspired by Kitenge patterns. I began by creating randomized shapes and integrating color palettes extracted from the reference images.
+**Initial Coding Experiments:**
+1. **Basic Shape Rendering**:
+   - Experimented with simple geometric shapes (e.g., teardrops and circles) in p5.js to begin replicating common Kitenge patterns.
+   - Introduced randomness to shape size and positioning to mimic the organic yet symmetrical feel of Kitenge designs.
+2. **Color Integration**:
+   - Started building a vibrant palette inspired by reference images of Kitenge prints, using extracted hex codes from online tools.
+3. **Texture Exploration**:
+   - Tested basic noise overlays to begin replicating the subtle fabric texture of printed Kitenge.
 
 **Challenges:**
-- Memory issues in Google Colab when analyzing high-resolution Kitenge images.
-- Translating real-world patterns into generative designs while retaining authenticity and cultural depth.
-- Balancing the conceptual critique with the aesthetic goals of the project.
+- Translating the intricate, layered patterns of Kitenge into a code-driven design while maintaining authenticity.
+- Ensuring shapes appear seamlessly integrated rather than stacked on top of each other.
+
+**State of Work:**
+By the end of the week, I had:
+- A draft p5.js script that generates basic teardrop shapes with random sizes and positions.
+- An initial palette of vibrant colors inspired by Kitenge fabric.
+- A plan for adding texture and refining the integration of shapes.
 
 ---
 
 #### **Speculations**
 
 **Future Tool Direction:**
-- Generative art tools like **p5.js** are rapidly evolving. I predict future integrations with machine learning tools, such as OpenCV, will allow for more seamless translation of real-world patterns into generative systems.
-- OpenCV’s capabilities in pattern recognition may eventually extend beyond geometry and color to include more contextual metadata, such as historical and cultural relevance.
+- Tools like p5.js could benefit from better texture integration features, allowing generative artists to replicate complex material effects (e.g., fabric weaving) directly.
 
 **Future Project Direction:**
-- Next week, I plan to refine the visual representation of Kitenge patterns in p5.js, focusing on **repetition** and **shape integration**.
-- I also plan to overlay symbolic data on top of the patterns, such as boundary thickness representing the rigidity of cultural enforcement by governing bodies.
+- Focus next week on refining the patterns, particularly the integration of texture and the bleeding effect of black lines.
+- Explore techniques to make the generated patterns more dynamic while maintaining the "Key Features" identified this week:
+  - Kitenge texture.
+  - Randomized shape position and size.
+  - Bleeding black lines.
+  - Saturation and vibrancy of colors.
+  - Seamless integration of all shapes.
 
 ---
 
 #### **Images & Video**
 
-1. **Kitenge Fabric Reference**:
-   ![Kitenge Example](https://via.placeholder.com/800x400)  
-   *(Reference image of Kitenge fabric used to inspire color palettes and pattern shapes.)*
+1. **Basic Shape Experiment in p5.js**:
+   ![Basic Shape Rendering](https://via.placeholder.com/800x400)  
+   *(Initial teardrop shapes rendered with size and position randomness.)*
 
-2. **Initial OpenCV Color Extraction**:
-   ![Color Extraction](https://via.placeholder.com/400x400)  
-   *(Color palette extracted from the reference Kitenge fabric using K-Means clustering in OpenCV.)*
+2. **Kitenge Color Palette**:
+   ![Color Palette](https://via.placeholder.com/400x400)  
+   *(Color palette extracted from reference Kitenge fabric.)*
 
-3. **Early p5.js Shape Rendering**:
-   ![Shape Rendering](https://via.placeholder.com/800x400)  
-   *(Screenshot showing early experiments with teardrop shapes inspired by Kitenge patterns in p5.js.)*
+3. **Noise Overlay Test**:
+   ![Noise Test](https://via.placeholder.com/400x400)  
+   *(Early test of noise overlays to mimic fabric texture.)*
 
 ---
 
 #### **Sketches, Drawings, and Diagrams**
 
-1. **Concept Sketch of Cultural Critique Visualization**:
-   - A rough hand-drawn sketch showing how colors and patterns will represent cultural perceptions and enforcement boundaries.
+1. **Initial Concept Sketch**:
+   - A hand-drawn diagram showing the envisioned system, with cultural critique mapped to patterns and colors inspired by Kitenge prints.
 
-2. **System Workflow Diagram**:
-   - Inputs: Reference Kitenge fabric, cultural enforcement data.
-   - Process: Color extraction (OpenCV), pattern generation (p5.js), data mapping (interactive overlays).
-   - Outputs: Generative art displayed interactively.
+2. **Draft Workflow**:
+   - Inputs: Reference Kitenge images and cultural critique framework.
+   - Process: Generative art development in p5.js.
+   - Outputs: Dynamic visualizations showcasing cultural variability.
 
 ---
 
 #### **Breadcrumb Trail**
 
 - **Tools Used**:
-  - OpenCV (image analysis and clustering).
-  - p5.js (dynamic generative design).
-  - Google Colab (Python environment for automation).
+  - p5.js for generative design.
+  - Online tools like Colormind for color extraction.
 - **Resources Referenced**:
-  - OpenCV documentation and tutorials on K-Means clustering.
-  - Articles on cultural enforcement and visual storytelling.
-  - Online repositories of Kitenge designs for inspiration.
+  - Articles and images of traditional Kitenge patterns.
+  - Tutorials on p5.js shape rendering.
 
+---
 
