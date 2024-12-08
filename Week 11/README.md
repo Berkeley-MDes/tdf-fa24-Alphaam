@@ -60,16 +60,6 @@ By the end of the week, I had:
 
    ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2011/media/Screenshot%202024-12-05%20at%203.22.15%20PM.png)
 
-
-
-2. **Kitenge Color Palette**:
-   ![Color Palette](https://via.placeholder.com/400x400)  
-   *(Color palette extracted from reference Kitenge fabric.)*
-
-3. **Noise Overlay Test**:
-   ![Noise Test](https://via.placeholder.com/400x400)  
-   *(Early test of noise overlays to mimic fabric texture.)*
-
 ---
 
 #### **Sketches, Drawings, and Diagrams**
