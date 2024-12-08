@@ -56,37 +56,11 @@ This week, the focus was on refining and completing the core visual system for t
 
 #### **Images & Video**
 
-1. **Expanded Shape Variety**:
-   ![Expanded Patterns](https://via.placeholder.com/800x400)  
-   *(A set of designs featuring new shapes, including stars and spirals, integrated into the Kitenge-inspired patterns.)*
+**Realistic Kitenge Texture**:
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2013/media/Screenshot%202024-12-05%20at%205.36.53%20PM.png)
 
-2. **Interactive Interface Screenshot**:
-   ![Interactive Prototype](https://via.placeholder.com/400x400)  
-   *(Slider and dropdown menus allow users to adjust density and colors dynamically.)*
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2013/media/Screenshot%202024-12-06%20at%2011.27.54%20AM.png)
 
-3. **Static Display Test**:
-   ![Static Display](https://via.placeholder.com/800x400)  
-   *(A mockup of the display system powered by a Particle Photon 2 microcontroller.)*
-
----
-
-#### **Sketches, Drawings, and Diagrams**
-
-1. **Final System Workflow**:
-   - Inputs: User-selected cultural data, color palettes.
-   - Process:
-     - Shape generation in p5.js.
-     - Integration of texture and boundary data.
-     - Visualization output.
-   - Outputs: Interactive generative art displayed digitally or via static installation.
-
-2. **Diagram of Interactivity Features**:
-   - A flowchart showing how user inputs are mapped to visual attributes like pattern density and color.
-
-3. **Photon 2 Integration Plan**:
-   - A diagram showing how the microcontroller and light sensor are connected to the display system.
-
----
 
 #### **Breadcrumb Trail**
 
