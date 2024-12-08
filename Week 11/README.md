@@ -53,9 +53,14 @@ By the end of the week, I had:
 
 #### **Images & Video**
 
-1. **Basic Shape Experiment in p5.js**:
-   ![Basic Shape Rendering](https://via.placeholder.com/800x400)  
-   *(Initial teardrop shapes rendered with size and position randomness.)*
+ **Basic Shape Experiment in p5.js**:
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2011/media/Screenshot%202024-12-05%20at%203.19.13%20PM.png)  
+
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2011/media/Screenshot%202024-12-05%20at%203.19.40%20PM.png) 
+
+   ![](https://github.com/Berkeley-MDes/tdf-fa24-Alphaam/blob/main/Week%2011/media/Screenshot%202024-12-05%20at%203.22.15%20PM.png)
+
+
 
 2. **Kitenge Color Palette**:
    ![Color Palette](https://via.placeholder.com/400x400)  
